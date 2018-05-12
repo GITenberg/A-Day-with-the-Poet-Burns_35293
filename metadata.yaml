@@ -1,0 +1,49 @@
+_repo: A-Day-with-the-Poet-Burns_35293
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Burns, Robert
+    birthdate: 1759
+    deathdate: 1796
+    gutenberg_agent_id: '583'
+    url: http://www.gutenberg.org/2009/agents/583
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Burns
+  illustrators:
+  - agent_name: Neatby, William James
+    alias: Neatby, W. J.
+    birthdate: 1860
+    deathdate: 1910
+    gutenberg_agent_id: '34617'
+    url: http://www.gutenberg.org/2009/agents/34617
+  - agent_name: Haslehust, E. W.
+    aliases:
+    - Haslehurst, Ernest William
+    - Haslehurst, E. W.
+    - Haslehust, Ernest William
+    birthdate: 1866
+    deathdate: 1949
+    gutenberg_agent_id: '26576'
+    url: http://www.gutenberg.org/2009/agents/26576
+    wikipedia: https://en.wikipedia.org/wiki/Ernest_William_Haslehust
+  - agent_name: Hardy, Dudley
+    birthdate: 1867
+    deathdate: 1922
+    gutenberg_agent_id: '39249'
+    url: http://www.gutenberg.org/2009/agents/39249
+covers:
+- cover_type: archival
+  image_path: 35293-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2011-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35293'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Burns, Robert, 1759-1796'
+title: A Day with the Poet Burns
+url: http://www.gutenberg.org/ebooks/35293
